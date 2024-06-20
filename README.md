@@ -1,23 +1,16 @@
-APLICATIE-WEB-PENTRU-VIZUALIZAREA-VIDEOCLIPURILOR
+# Aplicatie_postare_videoclipuri
+Aplicație postare videoclipuri - Licență 
 
-Pașii de compilare, de instalare și lansare a aplicației:
 
-i. Se instaleaza Xampp
+- Pașii de compilare, de instalare și lansare a aplicației:
 
-ii. Se porneste Apache si MySQL
-
-iii. Se trage tot folderul in c/xampp/htdocs
-
-iv. Intram in browser pe localhost/phpmyadmin
-
-v. Punem numele "simvideo" si colationare "utf8_romanian_ci"
-
-vi. Se da creare
-
-vii. Apoi dam pe importa
-
-viii. Se importa fisieru simvideo.sql ( baza de date )
-
-ix. Intram pe browser pe localhost/simvideo
-
-x. Ne jucam cu aplicatia, have fun :)))
+    1. Se instaleaza Xampp
+    2. Se porneste Apache si MySQL
+    3. Se trage tot folderul in c/xampp/htdocs
+    4. Intram in browser pe localhost/phpmyadmin
+    5. Punem numele "simvideo" si colationare "utf8_romanian_ci"
+    6. Se da creare
+    7. Apoi dam pe importa
+    8. Se importa fisieru simvideo.sql ( baza de date )
+    9. Intram pe browser pe localhost/simvideo
+    10. Ne jucam cu aplicatia, have fun :)))
