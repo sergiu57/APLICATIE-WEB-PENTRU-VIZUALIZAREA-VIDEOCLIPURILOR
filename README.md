@@ -1,5 +1,5 @@
-# Aplicatie_postare_videoclipuri
-Aplicație postare videoclipuri - Licență 
+# APLICATIE-WEB-PENTRU-VIZUALIZAREA-VIDEOCLIPURILOR
+APLICATIE-WEB-PENTRU-VIZUALIZAREA-VIDEOCLIPURILOR - Licență 
 
 
 - Pașii de compilare, de instalare și lansare a aplicației:
